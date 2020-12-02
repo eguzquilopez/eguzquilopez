@@ -11,6 +11,7 @@ body {
 
 /* Header compartido */
 header {
+    background-image: url(./images/8.jpg);
     display: grid;
     grid-template-areas:
     "header";
